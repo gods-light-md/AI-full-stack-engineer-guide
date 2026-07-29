@@ -19,7 +19,7 @@ You don't get better at ML by reading a 4th book on it. You get better by buildi
    - *Avoidance dressed as thoroughness* → ("let me just read one more article first") → this is the trap. Recognize it and build anyway.
 4. **Depth-check yourself with the "explain it to a beginner" test, not the "did I finish the course" test.** If you can explain RAG to someone with zero ML background in 2 minutes, you understand it well enough to move forward — regardless of how many chapters are left in whatever course you're using.
 5. **Cap "extra" learning resources at one supplementary source per topic.** One primary course/doc + one supplementary (a good YouTube explainer, a blog post) is enough. A 6th resource on the same topic is diminishing returns, not diligence.
-6. **Reserve true, no-shortcuts depth for exactly one specialization** (per `01_Realistic_Journey.md`, Phase 3–4 — likely GenAI/LLMs given 2026 demand). Everywhere else in the stack, working knowledge is the correct target, not mastery.
+6. **Reserve true, no-shortcuts depth for exactly one specialization** (per `Realistic_Journey.md`, Phase 3–4 — likely GenAI/LLMs given 2026 demand). Everywhere else in the stack, working knowledge is the correct target, not mastery.
 7. **Revisit fundamentals only when a project forces you to**, not preemptively. You'll understand gradient descent far better after debugging a model that won't converge than from re-reading the theory a third time.
 8. **Track "shipped projects" as your primary progress metric, not "hours studied" or "modules completed."** Hours and modules are inputs; shipped, explainable projects are the actual signal of employability.
 
@@ -33,7 +33,7 @@ You are realistically interview-ready (not "fully mastered," but ready to get hi
 - [ ] I have debugged at least one real, non-trivial bug in my own project (not a tutorial's) and can describe how I found and fixed it.
 - [ ] My GitHub shows a consistent build history, not a single project uploaded the week before applying.
 
-**Realistic timeline to hit this checklist honestly: 5–9 months at 10–15 hrs/week** (matches Phase 7 in `01_Realistic_Journey.md`). If you hit this checklist earlier, you're ready earlier — don't wait for an arbitrary calendar date. If you're at month 9 and still can't check these boxes, the issue is almost always mistake #1, #2, or #5 from `03_Mistakes_And_Fixes.md` — go re-read it.
+**Realistic timeline to hit this checklist honestly: 5–9 months at 10–15 hrs/week** (matches Phase 7 in `Realistic_Journey.md`). If you hit this checklist earlier, you're ready earlier — don't wait for an arbitrary calendar date. If you're at month 9 and still can't check these boxes, the issue is almost always mistake #1, #2, or #5 from `Mistakes_And_Fixes.md` — go re-read it.
 
 ## What "good enough" looks like at each level (so you know when to stop)
 | Area | Job-ready depth | NOT required at job-ready stage |

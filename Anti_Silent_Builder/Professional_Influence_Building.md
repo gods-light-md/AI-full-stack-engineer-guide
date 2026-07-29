@@ -10,8 +10,8 @@ The frame for all 20 of these: **you're not building an audience, you're buildin
 
 ## Substance-generating habits
 5. **Write "I built X, here's what I learned" posts, not "here's a listicle of tips."** The former is credible and specific; the latter is generic and forgettable.
-6. **Document failures and debugging journeys, not just wins.** A post titled "why my RAG pipeline was hallucinating and how I fixed it" builds more trust than "I shipped a RAG app! 🚀".
-7. **Turn your weekly notes (from `02_Weekly_Task_Guide.md`) into short public write-ups.** You're already doing the thinking — sharing it is close to zero marginal effort.
+6. **Document failures and debugging journeys, not just wins.** A post titled "why my RAG pipeline was hallucinating and how I fixed it" builds more trust than "I shipped a RAG app!".
+7. **Turn your weekly notes (from `Weekly_Task_Guide.md`) into short public write-ups.** You're already doing the thinking — sharing it is close to zero marginal effort.
 8. **Answer real questions in communities before you post your own content.** Being consistently helpful in a Discord/subreddit/Stack Overflow builds recognition faster than broadcasting.
 9. **Write one deep-dive per project, not ten shallow updates.** One well-explained architecture breakdown of your RAG chatbot outperforms daily "day 47 of learning AI" posts.
 10. **Open-source something small and genuinely useful** — a utility script, a template, a well-documented starter repo. Utility spreads on its own without you promoting it.
