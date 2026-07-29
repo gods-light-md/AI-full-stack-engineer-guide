@@ -1,6 +1,6 @@
 # The Realistic Journey to Full-Stack AI/ML Engineer
 
-Most roadmap graphics (including the one you uploaded) show *what* to learn but not *how long it actually takes a real person with a job/school/life to learn it*, or *in what order it stops being theoretical and starts being employable*. This is that missing layer.
+Most roadmap graphics show *what* to learn but not *how long it actually takes a real person with a job/school/life to learn it*, or *in what order it stops being theoretical and starts being employable*. This is that missing layer.
 
 Assumption baked into this plan: **10–15 focused hours/week**, starting from basic programming literacy (you can write a for-loop and don't panic at a terminal). If you're starting from zero-code, add 4–6 weeks to Phase 1.
 
@@ -8,7 +8,7 @@ Assumption baked into this plan: **10–15 focused hours/week**, starting from b
 
 ## Phase 0 — Reality Check (Week 0, before you start)
 
-- Confirm *why* you're doing this: job change, freelance, product idea, curiosity. Your "why" determines how deep you need to go in each module — a freelancer needs breadth, a job-seeker needs 1–2 deep specializations (see `05`).
+- Confirm *why* you're doing this: job change, freelance, product idea, curiosity. Your "why" determines how deep you need to go in each module — a freelancer needs breadth, a job-seeker needs 1–2 deep specializations (see `Deep_Learning_Without_Rabbit_Holes.md`).
 - Set up your environment once, properly: Python, VS Code, Git/GitHub account, a notes system (Notion/Obsidian/plain markdown files — doesn't matter which, pick one and stop deliberating).
 - Decide your **target role** now, even if it's a rough guess: Applied ML Engineer, AI/LLM Engineer, MLOps Engineer, or AI Full-Stack/Product Engineer. Current hiring data shows these have fragmented into distinct paths rather than one generic "ML Engineer" role — knowing your target early prevents wasted breadth later.
 
@@ -66,7 +66,7 @@ This is currently the highest-leverage module in the entire roadmap — 2026 hir
 - Add a real database (PostgreSQL/MongoDB) to your capstone if it doesn't already have one.
 - Build **one flagship capstone** that combines: classical ML or DL model + GenAI/RAG component + FastAPI backend + simple frontend + deployed publicly + on GitHub with a proper README, architecture diagram, and demo video/GIF.
 - Resume, GitHub profile, LinkedIn, and portfolio site all rebuilt around this capstone as the centerpiece.
-- Start applying / networking **while** finishing the capstone, not after — see `06_Bonus_Extras.md`.
+- Start applying / networking **while** finishing the capstone, not after — see `Bonus_Extras.md`.
 
 ---
 
@@ -83,5 +83,5 @@ This is currently the highest-leverage module in the entire roadmap — 2026 hir
 
 ## What "full-stack AI/ML engineer" realistically means at 9 months
 
-Not: expert in all 18 boxes on the image.
+Not: expert in all the listed tools and frameworks.
 Actually: **competent enough to build, deploy, and explain one real end-to-end AI product, with working knowledge of the surrounding ecosystem** — which is exactly what current job postings are asking for (breadth across the stack + demonstrated depth in at least one area, usually GenAI/LLMs or MLOps).
