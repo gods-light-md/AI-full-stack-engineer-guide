@@ -1,5 +1,5 @@
 # Bonus Extras
-### Useful things that weren't asked for directly, added because they close obvious gaps in a plan like this
+### Useful things that eng overlook but are actually needed, added because they close obvious gaps in a plan like this
 
 ---
 
@@ -7,7 +7,7 @@
 - AI Engineer roles are consolidating into a hybrid profile: ML fundamentals + GenAI frameworks (LangChain etc.) + MLOps/deployment — companies are explicitly hiring for this combination rather than narrow specialists.
 - Generic "ML Engineer" job titles are fragmenting into distinct paths: Applied ML Engineer, ML Platform/Infrastructure Engineer, LLM/AI Engineer, AI Product Engineer, Responsible AI specialist — worth deciding which of these you're aiming for by month 4–5.
 - PyTorch remains the dominant deep learning framework in job postings — prioritize it over TensorFlow if you must choose.
-- Employers increasingly prioritize demonstrated projects and production judgment over certificates — reinforces everything in `03` and `05`.
+- Employers increasingly prioritize demonstrated projects and production judgment over certificates — reinforces everything in `Mistakes_And_Fixes.md` and `Deep_Learning_Without_Rabbit_Holes.md`.
 - MLOps and infrastructure-adjacent skills are among the fastest-growing and hardest-to-fill demand areas — don't treat modules 13/14 in your original roadmap image as optional.
 - Reported 2026 salary ranges vary widely by region and seniority; treat any specific number you see online as directional, not a guarantee — verify current figures for your market before negotiating.
 
@@ -48,8 +48,8 @@ Your roadmap image already suggests good project ideas (heart disease prediction
 New frameworks and models will launch constantly during your 9-month journey — that's guaranteed. Rule: **don't switch your core stack mid-project.** Note new tools in a running "watchlist," evaluate the list once a month, and only adopt something new when starting your *next* project, never mid-build.
 
 ## 7. Realistic budget note
-Most of this roadmap is learnable free (official docs, free tiers of cloud providers, free course content, YouTube, open datasets). Paid bootcamps/subscriptions can accelerate structure and mentorship but are not required to hit the milestones in `01` and `02` — don't let budget be a blocker to starting.
+Most of this roadmap is learnable free (official docs, free tiers of cloud providers, free course content, YouTube, open datasets). Paid bootcamps/subscriptions can accelerate structure and mentorship but are not required to hit the milestones in `Realistic_Journey.md` and `Weekly_Task_Guide.md` — don't let budget be a blocker to starting.
 
 ## 8. Physical/mental sustainability (rarely mentioned in roadmaps, quietly the #1 dropout cause)
-- Protect one full rest day per week (built into `02`'s weekly rhythm) — this isn't optional, it's what makes month 6 possible.
+- Protect one full rest day per week (built into `Weekly_Task_Guide.md`'s weekly rhythm) — this isn't optional, it's what makes month 6 possible.
 - Expect motivation dips around week 8–10 and week 20–22 (common pattern after the "beginner excitement" fades and again mid-specialization when things get genuinely hard). Knowing it's coming makes it easier to push through rather than assume something's wrong with you.
